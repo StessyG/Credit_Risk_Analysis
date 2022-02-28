@@ -8,9 +8,11 @@ The results for the six machine learning models including their respective balan
 
 . Naive Random Oversampling
 
-Balanced accuracy score: 0.640324421824783
-Precision: low for high-risk(0.01) and high for low-risk(1.00)
-Recall: 0.66 for high-risk and 0.62 for low-risk
+![naive_random](https://github.com/StessyG/Credit_Risk_Analysis/blob/db87e5f65205fca2a9f91bef0b6ac49dc4b254d9/images/naive_random.png)
+
+- Balanced accuracy score: 0.640324421824783
+- Precision: low for high-risk(0.01) and high for low-risk(1.00)
+- Recall: 0.66 for high-risk and 0.62 for low-risk
 
 . SMOTE Oversampling
 
